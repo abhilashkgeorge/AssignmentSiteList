@@ -64,8 +64,7 @@ class MasterViewController: UIViewController {
     
     func showSignUp() {
 //        reactGoldView.translatesAutoresizingMaskIntoConstraints = false
-//        NSLayoutConstraint.activate([reactGoldView.centerXAnchor.constraint(equalTo: headerSignInBtn.centerXAnchor)
-//        ])
+//        NSLayoutConstraint.activate([reactGoldView.centerXAnchor.constraint(equalTo: headerSignInBtn.centerXAnchor)        ])
         
 
         remove(asChildViewController: signInVc)
